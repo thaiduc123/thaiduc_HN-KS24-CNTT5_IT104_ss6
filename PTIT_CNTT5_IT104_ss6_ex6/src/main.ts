@@ -1,4 +1,3 @@
-// Lớp Student
 class Student {
   id: number;
   name: string;
